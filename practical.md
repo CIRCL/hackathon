@@ -19,7 +19,6 @@ L-1855 Luxembourg
 
 The hackathon is free nevertheless you will need to [register at the following location](https://www.eventbrite.com/e/open-source-security-software-hackathon-tickets-31317418241).
 
-You can also register the [team](/team) that you represent and send us the logo of your project to [info@hack.lu](mailto:info@hack.lu) to be listed. The only requirement is that your
-project is using an open source license and is related to security.
+While registering, you'll also register the [team](/team) or open source project that you represent and send us the logo of your project to [info@hack.lu](mailto:info@hack.lu) to be listed. The only requirement is that your project is using an open source license and is related to security.
 
 
