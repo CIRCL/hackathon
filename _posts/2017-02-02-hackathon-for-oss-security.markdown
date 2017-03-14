@@ -13,3 +13,6 @@ The event is free and open to all projects, developers and contributors part of 
 
 ## Sponsors
 
+[![CIRCL](/images/logos/circl.png)](https://www.circl.lu/)
+[![PwC](/images/logos/pwc.png)](https://www.pwc.lu/)
+[![uni.lu](/images/logos/uni-lu.jpg)](https://www.uni.lu/)
