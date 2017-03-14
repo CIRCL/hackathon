@@ -9,10 +9,12 @@ The event is free and open to all projects, developers and contributors part of 
 
 ## Projects and Team
 
-![AIL logo](/images/logos/AIL.png)
-![cve-search logo](/images/logos/cve-search.png)
-![MISP Project](/images/logos/misp-logo.png)
-![Viper](/images/logos/viper.png)
+These are the projects already registered for the hackathon (feel free [to join](/practical) and add your open source project):
+
+- ![AIL logo](/images/logos/AIL.png)
+- ![cve-search logo](/images/logos/cve-search.png)
+- ![MISP Project](/images/logos/misp-logo.png)
+- ![Viper](/images/logos/viper.png)
 
 [See all the team and projects information](./team)
 
