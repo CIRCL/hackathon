@@ -1,6 +1,6 @@
-- name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
-  social_icon: Facebook
+- name: Twitter
+  link: 'https://www.twitter.com/hack_lu'
+  social_icon: Twitter
   new_window: true
 - name: RSS
   link: '/feed.xml'
