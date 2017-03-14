@@ -2,11 +2,11 @@
 title: Open Source Security Software Hackathon
 layout: post
 ---
-<img src="/images/people.jpg" class="fit image"> In the past 12 years, we organized the [hack.lu](https://2016.hack.lu/) security conference conference which brings many security professionals together. We saw that many people and organisations create open source software to support their security activities from reverse engineering, digital forensic, incident response (DFIR), threat analysis or network security. Many of the security tools are developed on long-term and provides viable solution to improve security globally. So we decided to organise a two-days hackathon to support the continuity of innovation, development and integration of such open source security tools.
+<img src="/images/people.jpg" class="fit image">Since 12 years, our team organizes the [hack.lu](https://2016.hack.lu/) security conference, which brings many security professionals together. We observe that many people and organisations create open source software to support their security activities, ranging from reverse engineering, digital forensic, incident response (DFIR), threat analysis to network security. Many of the security tools are developed on a long-term commitment and they provide viable solutions to improve security globally. In order to support the continuity of innovation, development and integration of such open source security tools, we decided to organise a two-days hackathon in May in addition to our yearly hack.lu conference (16th to 19th October 2017).
 
 The hackathon will take place the 2nd and 3rd May 2017 in Luxembourg. Check the [practical details](./practical).
 
-The event is free and open to all projects, developers and contributors part of open source projects working in the security field.
+The event is free of charge and open to all projects, developers and contributors who are part of open source projects placed in the security field.
 
 ## Projects and Team
 
@@ -17,7 +17,7 @@ These are the projects already registered for the hackathon (feel free [to join]
 ![MISP Project](/images/logos/misp-logo.png)
 ![Viper](/images/logos/viper.png)
 
-[See all the team and projects information](./team)
+[See all the team and project information](./team)
 
 ## Sponsors
 
