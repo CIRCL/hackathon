@@ -16,6 +16,7 @@ These are the projects already registered for the hackathon (feel free [to join]
 
 ![AIL logo](/images/logos/AIL.png)
 ![cve-search logo](/images/logos/cve-search.png)
+![TheHive](/images/logos/thehive-s.png)
 ![MISP Project](/images/logos/misp-logo.png)
 ![Viper](/images/logos/viper.png)
 
