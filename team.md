@@ -13,6 +13,9 @@ The following open source projects and team members will be present at the hacka
 ![cve-search logo](/images/logos/cve-search.png)
 [cve-search project](https://github.com/cve-search/) is a set of tools to import CVE (Common Vulnerabilities and Exposures) and CPE (Common Platform Enumeration) to facilitate search and processing of CVEs.  The main objective of the software is to avoid doing direct and public lookup into the public CVE databases. This is usually faster to do local lookups and limits your sensitive queries via the Internet.  cve-search includes a back-end to store vulnerabilities and related information, an intuitive web interface for search and managing vulnerabilities, a series of tools to query the system and a web API interface.
 
+![TheHive](/images/logos/thehive.png)
+[TheHive](https://thehive-project.org/) is a scalable 3-in-1 open source and free security incident response platform designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly.
+
 ![MISP Project](/images/logos/misp-logo.png)
 The [MISP threat sharing platform](https://www.misp.software/) is a free and open source software helping information sharing of threat and cyber security indicators.
 
