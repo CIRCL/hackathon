@@ -24,4 +24,6 @@ While registering, you'll also register the [team](/team) or open source project
  - is released under an open source license
  - and placed in the security field.
 
+**Being part of a project is not a requirement to participate to the hackaton.** The [projects listed](/team) are examples and you're more than welcome to propose other open source projects.
+
 
