@@ -6,9 +6,9 @@ layout: post
 
 The hackathon will take place the 2nd and 3rd May 2017 in Luxembourg. Check the [practical details](./practical).
 
-The event is free of charge and open to all projects, developers and contributors who are part of open source projects placed in the security field.
+The event is free of charge and open to all projects, developers and contributors (or those who want to become one) who are part of open source projects placed in the security field. You'll be supplied with lunch and drinks.
 
-**Being part of a project is not a requirement to participate to the hackaton.** The projects listed below are examples and you're more than welcome to propose other open source projects.
+**You don't need to be an already existing member, core member, owner or otherwise linked to an open source project in order to participate to the hackaton.** The [projects listed](/team) are examples and you're more than welcome to propose other open source projects you would like to work on.
 
 ## Projects and Team
 
