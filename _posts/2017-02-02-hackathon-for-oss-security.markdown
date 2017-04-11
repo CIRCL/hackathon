@@ -27,3 +27,4 @@ These are the projects already registered for the hackathon (feel free [to join]
 [![CIRCL](/images/logos/circl.png)](https://www.circl.lu/)
 [![PwC](/images/logos/pwc.png)](https://www.pwc.lu/)
 [![uni.lu](/images/logos/uni-lu.jpg)](https://www.uni.lu/)
+[![Conostix](/images/logos/conostix.png)](http://www.conostix.com/)
