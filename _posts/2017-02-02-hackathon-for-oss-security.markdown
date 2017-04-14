@@ -18,6 +18,7 @@ These are the projects already registered for the hackathon (feel free [to join]
 ![cve-search logo](/images/logos/cve-search.png)
 ![TheHive](/images/logos/thehive-s.png)
 ![MISP Project](/images/logos/misp-logo.png)
+![MONARC](/images/logos/monarc.png)
 ![Viper](/images/logos/viper.png)
 
 [See all the team and project information](./team)
