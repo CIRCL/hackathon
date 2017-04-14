@@ -19,6 +19,9 @@ The following open source projects and team members will be present at the hacka
 ![MISP Project](/images/logos/misp-logo.png)
 The [MISP threat sharing platform](https://www.misp.software/) is a free and open source software helping information sharing of threat and cyber security indicators.
 
+![MONARC](/images/logos/monarc.png)
+The [MONARC](https://github.com/CASES-LU/MonarcAppFO) is a free and open source software to support an optimised risk analysis method to allow precise and repeatable risk management.
+
 ![Viper](/images/logos/viper.png)
 [Viper](http://www.viper.li/) is a binary management and analysis framework dedicated to malware and exploit researchers.
 
