@@ -7,6 +7,13 @@ date:
 
 The following open source projects and team members will be present at the hackathon (don't hesitate to [register your team](https://www.eventbrite.com/e/open-source-software-hackathon-tickets-31317418241)):
 
+![AboutCode](/images/logos/aboutcode.png)
+[AboutCode](https://aboutcode.org) is a project to uncover data ... about software code.
+- where does the code come from?
+- what is its license? copyright?
+- is it secure, maintained, well coded?
+AboutCode provides tools to identify the origin, licensing (and soon vulnerabilities) of FLOSS software packages.
+
 ![AIL logo](/images/logos/AIL.png)
 [AIL](https://github.com/CIRCL/AIL-framework) is a modular framework to analyse potential information leaks from unstructured data sources like pastes from Pastebin or similar services or unstructured data streams. AIL framework is flexible and can be extended to support other functionalities to mine sensitive information.
 
