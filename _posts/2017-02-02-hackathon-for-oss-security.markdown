@@ -14,7 +14,7 @@ The event is free of charge and open to all projects, developers and contributor
 
 These are the projects already registered for the hackathon (feel free [to join](/practical) and add your open source project):
 
-![AboutCode](/images/logo/aboutcode.png)
+![AboutCode](/images/logos/aboutcode.png)
 ![AIL logo](/images/logos/AIL.png)
 ![cve-search logo](/images/logos/cve-search.png)
 ![TheHive](/images/logos/thehive-s.png)
