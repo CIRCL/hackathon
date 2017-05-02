@@ -42,7 +42,7 @@ As this is a hackathon, there is not a strict agenda to avoid interrupting the w
 
 ## Etherpad
 
-The hackathon Etherpad is the global whiteboard of the ongoing activities, projects, ideas or open question during the hackathon. This can also help
+The [hackathon Etherpad](https://pad.riseup.net/p/OS3hackathon) is the global whiteboard of the ongoing activities, projects, ideas or open question during the hackathon. This can also help
 other people joining the hackathon remotely and willing to discuss with the participants on specific projects. Feel free to update, expand or edit the
 etherpad during the hackathon.
 
