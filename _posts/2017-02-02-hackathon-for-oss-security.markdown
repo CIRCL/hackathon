@@ -1,5 +1,5 @@
 ---
-title: Open Source Security Software Hackathon
+title: Open Source Security Software Hackathon #1 (2-3 May 2017)
 layout: post
 ---
 <img src="/images/people.jpg" class="fit image">Since 12 years, our team organizes the [hack.lu](https://2016.hack.lu/) security conference, which brings many security professionals together. We observe that many people and organisations create open source software to support their security activities, ranging from reverse engineering, digital forensic, incident response (DFIR), threat analysis to network security. Many of the security tools are developed on a long-term commitment and they provide viable solutions to improve security globally. In order to support the continuity of innovation, development and integration of such open source security tools, we decided to organise a two-days hackathon in May in addition to our yearly hack.lu conference (16th to 19th October 2017).
