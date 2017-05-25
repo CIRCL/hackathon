@@ -1,5 +1,5 @@
 ---
-title: Open Source Security Software Hackathon #1 (2-3 May 2017) - Debriefing
+title: Open Source Security Software Hackathon 0x1 (2-3 May 2017) - Debriefing
 layout: post
 ---
 
