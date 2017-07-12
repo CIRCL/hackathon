@@ -7,6 +7,6 @@ This 1,5-day Hackathon is dedicated to free/open source software in the field of
 
 On Thursday, the kick off will be given at 6PM and teams will go on until 10PM, followed by a full day on Friday. The event is free of charge and will cover [projects](/team/) previously tackled such as: MISP, CVE search, AIL and Viper. This list is not exhaustive. Teams and individuals will be able to propose their own open source projects they wish to work on.
 
-Check the [debrief summary of latest edition](/2017/05/17/hackathon-debriefing/).
+Check the [debrief summary of the latest edition](/2017/05/17/hackathon-debriefing/).
  
 To register a team, [click here!](https://www.eventbrite.com/e/open-source-security-software-hackathon-2-tickets-34848731494)
