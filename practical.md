@@ -7,23 +7,22 @@ date:
 
 # Date
 
-The hack.lu hackathon 0x2 takes place in October 19-20 2017.
+The hack.lu hackathon 0x3 takes place the 26th March 2018.
 
 # Location
 
-The location is kindly sponsored by [hack.lu](https://2017.hack.lu) and is located at
+The location is kindly sponsored by [circl.lu](https://www.circl.lu) and [Cybersecurity Competence Center](https://www.c-3.lu/) and is located at
 
 ~~~~
-Alvisse Parc Hotel
-120 Route d'Echternach,
-1453 Luxembourg
+CIRCL - Computer Incident Response Center Luxembourg
+16 Boulevard d'Avranches
+1160 Luxembourg 
 ~~~~
 
-Signs will be placed to mark the way.
 
 # Registration
 
-The hackathon is free, nevertheless you will need to [register at the Eventbrite registration page](https://www.eventbrite.com/e/open-source-security-software-hackathon-2-tickets-34848731494).
+The hackathon is free, nevertheless you will need to [register at the Eventbrite registration page](https://www.eventbrite.com/e/open-source-security-software-hackathon-3rd-edition-tickets-42862264186).
 
 During the registeration process, you'll also register the [team](/team) or open source project that you represent. Please send us the logo of your project to [info@hack.lu](mailto:info@hack.lu) to be listed. The only requirements are that your project is:
 
@@ -46,21 +45,13 @@ The [hackathon Etherpad](https://pad.riseup.net/p/OS3hackathon) is the global wh
 other people joining the hackathon remotely and willing to discuss with the participants on specific projects. Feel free to update, expand or edit the
 etherpad during the hackathon.
 
-## Thursday 19th October
-
-- 18:00 Kickoff and discussion
-
-## Friday 20th October
+## Monday 26th March 2018
 
 - 9:00 Start
 - 16:30 Quick debrief session of the various projects (5 min)
-- 17:30 Stop
+- 18:00 End
 
 # Food and Beverages
 
-Lunch is served during the two days. Also drinks are available during the entire days.
-
-# Hotel Options
-
-- There is also the [Youth Hostel](https://www.booking.com/searchresults.en-gb.html?aid=311984;label=youth-hostel-luxembourg-city-tEuAJJ73l0gQ2yp%2AM5ojIAS162177979583%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-146342138230%3Akwd-11129534011%3Alp9067749%3Ali%3Adec%3Adm;sid=5dd4b00c2544f4d33a3a81a67c92540c;city=-1736191;expand_sb=1;highlighted_hotels=283703;hlrd=no_dates;keep_landing=1;redirected=1;source=hotel&gclid=CjwKEAjw_bHHBRD4qbKukMiVgU0SJADr08ZZwZIW5KREqWN1SIjruC81Us4wEGo_0b2lGJqAHsOkJRoC41Pw_wcB&), as an alternative option.
+Lunch is served during the day. Also drinks are available during the entire days.
 
