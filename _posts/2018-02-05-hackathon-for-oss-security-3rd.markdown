@@ -2,7 +2,7 @@
 title: The Open Source Security Software Hackathon is back. Third edition - 26 March 2018
 ---
 
-The [hack.lu team](http://hack.lu) organizes the third Open Source Security Software Hackathon right after the hack.lu conference on Monday 26 March 2018.
+The [hack.lu team](http://hack.lu) organizes the third Open Source Security Software Hackathon on Monday 26 March 2018.
 
 This 1-day Hackathon is dedicated to free/open source software in the field of cybersecurity. The aim is to gather various developer groups to collaborate on challenging programming problems in the field of cybersecurity: from information sharing, network/system forensic, data mining challenges, network/computer exploitation or defense. The objective of
 the Open Source Security Software hackathon is also to improve the interoperability and exchange between the different security tools
