@@ -20,6 +20,12 @@ The following open source projects and team members will be present at the hacka
 
 [cve-search project](https://github.com/cve-search/) is a set of tools to import CVE (Common Vulnerabilities and Exposures) and CPE (Common Platform Enumeration) to facilitate search and processing of CVEs.  The main objective of the software is to avoid doing direct and public lookup into the public CVE databases. This is usually faster to do local lookups and limits your sensitive queries via the Internet.  cve-search includes a back-end to store vulnerabilities and related information, an intuitive web interface for search and managing vulnerabilities, a series of tools to query the system and a web API interface.
 
+## D4 Project
+
+![d4-project](/images/logos/d4.png)
+
+[D4 Project](https://www.d4-project.org) goal is to build a large-scale network sensor can be a tedious task, the aim of the D4 Project is to make the creation and maintenance of such network simple and efficient. To reach the goal, the D4 project will develop open source components required to operate such network sensor and will live test the infrastructure with an DDoS and malicious activities sensor network deployed on a voluntary basis.
+
 ## TheHive project
 
 ![TheHive](/images/logos/thehive.png)
