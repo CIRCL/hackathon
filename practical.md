@@ -7,24 +7,15 @@ date:
 
 # Date
 
-The hack.lu hackathon 0x3 takes place the 26th March 2018.
+The hack.lu hackathon 0x4 takes place virtually the 26th and 27th August 2020.
 
 # Location
 
-The location is kindly sponsored by [circl.lu](https://www.circl.lu) and [Cybersecurity Competence Center](https://www.c-3.lu/) and is located at
-
-~~~~
-CIRCL - Computer Incident Response Center Luxembourg
-16 Boulevard d'Avranches
-1160 Luxembourg 
-~~~~
-
+The event is virtual.
 
 # Registration
 
-The hackathon is free, nevertheless you will need to [register at the Eventbrite registration page](https://www.eventbrite.com/e/open-source-security-software-hackathon-3rd-edition-tickets-42862264186).
-
-During the registeration process, you'll also register the [team](/team) or open source project that you represent. Please send us the logo of your project to [info@hack.lu](mailto:info@hack.lu) to be listed. The only requirements are that your project is:
+No need for registration, everyone can participate. If you want to list your project (released under an open source license and placed in the security field), please send us the logo of your project to [info@hack.lu](mailto:info@hack.lu) to be listed. The only requirements are that your project is:
 
  - released under an open source license and
  - placed in the security field.
@@ -41,17 +32,17 @@ As this is a hackathon, there is not a strict agenda to avoid interrupting the w
 
 ## Etherpad
 
-The [hackathon Etherpad](https://pad.riseup.net/p/OS3hackathon) is the global whiteboard of the ongoing activities, projects, ideas or open question during the hackathon. This can also help
-other people joining the hackathon remotely and willing to discuss with the participants on specific projects. Feel free to update, expand or edit the
-etherpad during the hackathon.
+The [hackathon Etherpad](https://hackmd.io/W81vg5n5QEGWAMawu9Ru5g) is the global whiteboard of the ongoing activities, projects, ideas or open question during the hackathon. This can also help other people joining the hackathon remotely and willing to discuss with the participants on specific projects. Feel free to update, expand or edit the etherpad during the hackathon.
 
-## Monday 26th March 2018
+## Live chat and video
 
-- 9:00 Start
-- 16:30 Quick debrief session of the various projects (5 min)
-- 18:00 End
+A [BBB session will be open](https://bbb.secin.lu/b/ale-av7-tk2) for the two days where people can chat and discuss ongoing activities and collaboration.
 
-# Food and Beverages
+## Wednesday 26th August 2020
 
-Lunch is served during the day. Also drinks are available during the entire days.
+- 9:00 (CEST) Start
+- 9:30 [Video session](https://bbb.secin.lu/b/ale-av7-tk2) and welcome
 
+## Thursday 27th August 2020
+
+- 18:00 (CEST) hackathon debriefing
