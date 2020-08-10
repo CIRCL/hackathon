@@ -2,7 +2,7 @@
 title: The Open Source Security Software Hackathon. Fourth edition - 26-27 August 2020
 ---
 
-The [hack.lu team](http://hack.lu) and [CIRCL](https://www.circl.lu/) organizes the fourth Open Source Security Software Hackathon on Wednesday 26th and Thursday 27th August 2020.
+The [hack.lu team](http://hack.lu) and [CIRCL](https://www.circl.lu/) organise the fourth Open Source Security Software Hackathon on Wednesday 26th and Thursday 27th August 2020.
 
 This 2-day virtual Hackathon is dedicated to free/open source software in the field of cybersecurity. The aim is to gather various developer groups to collaborate on challenging programming problems in the field of cybersecurity: from information sharing, network/system forensic, data mining challenges, network/computer exploitation or defense. The objective of
 the Open Source Security Software hackathon is also to improve the interoperability and exchange between the different security tools
