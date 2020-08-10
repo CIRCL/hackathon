@@ -1,12 +1,12 @@
 locale: "en-US"
-title: Open Source Security Software Hackathon 2017 # Title of your site
+title: Open Source Security Software Hackathon 0x04 2020 # Title of your site
 url: "https://hackathon.hack.lu" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
-    The Open Source Security Software Hackathon is a 2-days open hackathon to bring
+    The Open Source Security Software Hackathon is a 2-days virtual open hackathon to bring
     people and open source security software/tools together.
 # Author details for the jekyll-seo-tag gem
 author:
@@ -16,7 +16,7 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Open Source Security Software Hackathon 2017
+  name: Open Source Security Software Hackathon 0x04 2020
   links:
     - https://hackathon.hack.lu
 
