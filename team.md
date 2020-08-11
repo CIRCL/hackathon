@@ -50,6 +50,10 @@ The [MONARC](https://github.com/CASES-LU/MonarcAppFO) is a free and open source 
 
 [Neolea project](https://github.com/neolea) is a joint project to produce training materials for (LEA) law enforcement agency and partners.
 
+## pcraft
+
+[pcraft](https://github.com/DevoInc/pCraft) a PCAP Crafter, which creates a PCAP from a YAML scenario.
+
 ## Viper
 
 ![Viper](/images/logos/viper.png)
