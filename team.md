@@ -68,6 +68,8 @@ The [MONARC](https://github.com/CASES-LU/MonarcAppFO) is a free and open source 
 
 ## Shuffle 
 
+![shuffle logo](/images/logos/shuffle-logo.png)
+
 [Shuffle](https://github.com/frikky/shuffle) is an automation platform designed to unify security services by leveraging API's, well-known frameworks and standardization. 
 
 If you are member of a free/open source software project in the security field. Feel free to join us and [add your team](https://github.com/circl/hackathon) by doing a pull-request on this page.
