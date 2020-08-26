@@ -38,6 +38,8 @@ The [hackathon Etherpad](https://hackmd.io/W81vg5n5QEGWAMawu9Ru5g) is the global
 
 A [BBB session will be open](https://bbb.secin.lu/b/ale-av7-tk2) for the two days where people can chat and discuss ongoing activities and collaboration.
 
+A matermost team for the hackathon is available and can be used for all hackathon users. [Invitation link](https://mm.circl.lu/signup_user_complete/?id=xi6s5si3njg6bp6rt6ug1jmdna).
+
 ## Wednesday 26th August 2020
 
 - 9:00 (CEST) Start
